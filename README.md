@@ -13,17 +13,17 @@ Build and refine mini-app UIs with `@v-miniapp/ui-react` — a React component l
 
 ## Installation
 
-### Option 1: Using add-skill CLI (Recommended)
+### Option 1: Using skills CLI (Recommended)
 
 ```bash
 # Install to current project
-npx add-skill <org>/ui-react-skills
+npx skills add v-open-platform/ui-react-skills
 
 # Install globally
-npx add-skill <org>/ui-react-skills -g
+npx skills add v-open-platform/ui-react-skills -g
 
 # Install for specific agent
-npx add-skill <org>/ui-react-skills -a claude-code
+npx skills add v-open-platform/ui-react-skills -a claude-code
 ```
 
 ### Option 2: Manual Installation
